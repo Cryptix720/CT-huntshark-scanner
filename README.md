@@ -1,6 +1,6 @@
 # CT-huntshark-scanner
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://raw.githubusercontent.com/Cryptix720/CT-huntshark-scanner/branch/path/to/ctlogo.png)
 
 Cybertrigo presents a automated command-line interface to VirusTotal, Jotti, and NoVirusThanks.
 The script gives you the ability to analyze files using multiple services without using a web
