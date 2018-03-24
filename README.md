@@ -1,8 +1,7 @@
+![Image of CybertrigoAV](https://github.com/Cryptix720/CT-huntshark-scanner/blob/master/ctlogo.png)
 # CT-huntshark-scanner
 
-
-![Image of CybertrigoAV](https://github.com/Cryptix720/CT-huntshark-scanner/blob/master/ctlogo.png)
-
+#About:
 Cybertrigo presents a automated command-line interface to VirusTotal, Jotti, and NoVirusThanks.
 The script gives you the ability to analyze files using multiple services without using a web
 browser or a special client. Since Ctaviav is written in Python, it works on Linux^, Mac OS X^, and
